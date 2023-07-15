@@ -15,7 +15,7 @@ Ce blog a été réalisé dans le cadre d'un projet scolaire, from scratch, et d
 
 La partie UI/UX vient d'un template qui a été retouché et adapté par moi même de manière à couvrir toutes mes exigences.
 
-Lien vers le code source du projet : [@BlogMVC](https://github.com/NasssDev/BlogMVC).
+Lien vers le site : [nassdev-blogmvc.app](https://nassdev-blogmvc.vercel.app/api).
 
 ---
 
