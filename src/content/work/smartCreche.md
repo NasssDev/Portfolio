@@ -23,7 +23,7 @@ En s'appuyant sur notre plateforme d'analyse, Smart'Creche fournit également à
 Notre objectif est de contribuer à la création de crèches intelligentes, éco-responsables et centrées sur le bien-être des enfants. Avec Smart'Creche, nous aspirons à améliorer la qualité de vie dans les crèches tout en créant un avenir plus durable pour les générations futures.
 
 **Stack utilisée:  
-Pour le Front** React, Typescript et Tailwind css.  
+Pour le Front** ViteJS, React, Typescript et Tailwind css.  
 **Pour le Back** Node.js avec Express, Typescript et MongoDB.
 
 ---
