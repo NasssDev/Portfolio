@@ -7,7 +7,7 @@ description: |
   Blog développé en PHP sur une architecture MVC.
 tags:
   - Dev
-  - Template
+  - Architecture
   - Backend
 ---
 

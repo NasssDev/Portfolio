@@ -11,7 +11,7 @@ tags:
   - Framework
 ---
 
-Cette App a été codé de manière à servir de base pour un projet Laravel, l'App comporte un système d'authentification, une To do list, un formulaire de contact et un espace administrateur permettant d'accéder et de modifier chaque compte et chaque contact enregistré en base de donnée.
+Cette App a été codée de manière à servir de base pour un projet Laravel, l'App comporte un système d'authentification, une To do list, un formulaire de contact et un espace administrateur permettant d'accéder et de modifier chaque compte et chaque contact enregistré en base de données.
 
 Ici les components Blade ont été utilisés ainsi que Artisan et l'UI/UX a été Designé en Tailwind CSS.
 
