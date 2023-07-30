@@ -15,7 +15,9 @@ Cette App a été codée de manière à servir de base pour un projet Laravel, l
 
 Ici les components Blade ont été utilisés ainsi que Artisan et l'UI/UX a été Designé en Tailwind CSS.
 
-Lien vers le code source : [@Laravel-App](https://github.com/NasssDev/Laravel-App).
+Lien vers le repo Github : [@Laravel-App](https://github.com/NasssDev/Laravel-App).
+
+Lien vers le site web : [nasssdev-laravel.app](https://nasssdev-laravel.vercel.app/).
 
 ---
 
