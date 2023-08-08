@@ -15,7 +15,7 @@ Voici une map interactive avec laquelle vous pourrez, rechercher votre ville, vo
 
 Ce projet a été réalisé à mes débuts, j'ai utilisé une librairie ainsi qu'une API pour la première fois, je ne savais même pas encore de quoi il s'agissait, ce fut une bonne expérience, car cela m'a poussé à rechercher des ressources sur le net, lire les docs et comprendre quelques fondamentaux.
 
-Lien vers le site : [map-interactive-leaflet.app](https://map-interactive-leaflet.vercel.app/)
+Lien vers le site web : [map-interactive-leaflet.app](https://map-interactive-leaflet.vercel.app/)
 
 ---
 

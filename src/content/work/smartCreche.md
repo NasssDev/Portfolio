@@ -23,8 +23,10 @@ En s'appuyant sur notre plateforme d'analyse, Smart'Creche fournit également à
 Notre objectif est de contribuer à la création de crèches intelligentes, éco-responsables et centrées sur le bien-être des enfants. Avec Smart'Creche, nous aspirons à améliorer la qualité de vie dans les crèches tout en créant un avenir plus durable pour les générations futures.
 
 **Stack utilisée:  
-Pour le Front** ViteJS, React, Typescript et Tailwind css.  
-**Pour le Back** Node.js avec Express, Typescript et MongoDB.
+Pour le Front** ViteJS, React, Typescript et Tailwind css. => Repo Github [#Frontend](https://github.com/NasssDev/Smart-Creche-IoT-Frontend)
+**Pour le Back** Node.js avec Express, Typescript et MongoDB. => Repo Github [#Backend](https://github.com/NasssDev/Smart-Creche-IoT-Backend)
+
+Lien vers le site web : [smart-creche.app](https://smart-creche.vercel.app/).
 
 ---
 
