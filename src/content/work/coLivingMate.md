@@ -19,7 +19,7 @@ Le site web a été développé en mobile first et est donc entièrement respons
 Toute les images sont générées par une api externe ([Unsplash](https://unsplash.com/developers)) et aucunes d'entre elle ne sont stockées, d'où le fait qu'elles changent à chaque refresh.
 
 **Stack utilisée:  
-Pour le Front** ViteJS, React, Typescript et Tailwind css. 
+Pour le Front** ViteJS, React et Tailwind css. 
 
 **Pour le Back** Php (Micro-framework maison) et MySQL. 
 
