@@ -16,6 +16,8 @@ Ce projet a été réalisé dans le cadre d'un projet scolaire, il s'agit d'un s
 
 Le site web a été développé en mobile first et est donc entièrement responsive, il a été réalisé en utilisant un mini framework développé maison pour l'Api Backend et le design ainsi que la reponsivité ont été réalisés en Tailwind CSS.
 
+Toute les images sont générées par une api externe ([Unsplash](https://unsplash.com/developers)) et aucunes d'entre elle ne sont stockées, d'où le fait qu'elles changent à chaque refresh.
+
 **Stack utilisée:  
 Pour le Front** ViteJS, React, Typescript et Tailwind css. 
 
